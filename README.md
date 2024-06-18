@@ -13,3 +13,6 @@
 - Make and Model Popularity: Identify the most popular makes and models among the registered EVs.
 - Electric Range Analysis: Analyze the electric range of vehicles to see how EV technology is progressing.
 - Estimated Growth in Market Size: Analyze and find the estimated growth in the market size of electric vehicles.
+
+This project was inspired by the case study on the market size of EVs found at Statso.
+https://statso.io/market-size-of-evs-case-study/
