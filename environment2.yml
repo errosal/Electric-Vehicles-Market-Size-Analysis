@@ -1,0 +1,7 @@
+name: DataTools
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - ipykernel
+prefix: /opt/anaconda3/envs/DataTools
